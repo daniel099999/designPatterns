@@ -8,7 +8,7 @@ Usually replace class constructor with other mechanism.
 This helps control objects creation to either ensure proper use, or to make object creation easier
 during usage
 
-#types
+## _Types_
 #-> Encapsulating object creation, limiting type of object tha class can create.
 #-> Self object creation and exposing only an instance.
 
